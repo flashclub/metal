@@ -1,3 +1,4 @@
 # metal
-膳魔师保温杯，基本上还原度比较高了，杯身金属光泽，杯子底部的线都做了很多工作。杯盖三个点和杯沿也进行了还原和基于物理规律的制作。
-暂且定位1.0版本吧，后续有时间再更新。
+
+The thermos thermal mug has a generally high degree of restoration; the body of the cup has a metallic sheen, and the bottom of the cup line has undergone extensive treatment. In accordance with the rules of physics, the cup's rim and lid's three points were likewise restored.
+Positioning the 1.0 version for now, with time to update later.
